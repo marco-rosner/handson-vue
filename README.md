@@ -5,7 +5,7 @@ This project is an toy example (To do application) on how to use VueJS using Vit
 ## Prints
 ![Add and List View](./AddListView.png?raw=true "Add and List View")
 
-![About View](./AboutView.png.png?raw=true "About View")
+![About View](./AboutView.png?raw=true "About View")
 
 ## Project Setup
 
